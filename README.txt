@@ -1,0 +1,1 @@
+A web App project to understand how responsiveness works
